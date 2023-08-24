@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="home_title">Tic Tac Toe</string>
+
+    <string name="play_button">Play</string>
+
+    <string name="setupTitle">Player Setup</string>
+    <string name="Player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="nameHint">Please Enter a Name</string>
+    <string name="name_blank_error">Name cannot be empty!</string>
+
+    <string name="Back">Home</string>
+    <string name="Play_Again">Reset</string>
+
+    <string name="PVP">Play Against Human</string>
+    <string name="PVC">Play Against Computer</string>
+</resources>
